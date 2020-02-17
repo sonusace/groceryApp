@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185915476885",
+    "firebase_url": "https://reaperland-6d848.firebaseio.com",
+    "project_id": "reaperland-6d848",
+    "storage_bucket": "reaperland-6d848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185915476885:android:6848b715075c20313dc49c",
+        "android_client_info": {
+          "package_name": "com.reaper.reaperland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185915476885-sdafsnhcc4ogfahumhhq2huetkd67ojm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reaper.reaperland",
+            "certificate_hash": "89b1883db8d96dcd2d5161896e446dcd8c589580"
+          }
+        },
+        {
+          "client_id": "185915476885-mjsqcng76s5chh2sqs289p3lv8eel04d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWMiANCRTRLP2ZW2kNdkJQ-xiMDD_9Qlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185915476885-mjsqcng76s5chh2sqs289p3lv8eel04d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
